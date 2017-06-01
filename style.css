@@ -12,9 +12,8 @@
 
 .frame {
     position: absolute;
-    width: 250px;
-    height: 100px;
-   }
+    width: 100%;
+}
 
 
 /*animacje*/
