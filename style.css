@@ -1,0 +1,312 @@
+/*właśnie się dowiedziałem że id i pewnie klasy też nie mogą być liczbowe #10 nie działa nic #n10 działa wszystko*/
+
+#counter {
+    position: relative;
+    width: 250px;
+    height: 100px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 3em;
+}
+
+.frame {
+    position: absolute;
+    width: 250px;
+    height: 100px;
+   }
+
+
+/*animacje*/
+
+#n10 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 1s;
+    -o-animation-delay: 1s;
+    -ms-animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+}
+
+#n9 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 2s;
+    -o-animation-delay: 2s;
+    -ms-animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    -moz-animation-delay: 2s;
+}
+
+#n8 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 3s;
+    -o-animation-delay: 3s;
+    -ms-animation-delay: 3s;
+    -webkit-animation-delay: 3s;
+    -moz-animation-delay: 3s;
+}
+
+#n7 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 4s;
+    -o-animation-delay: 4s;
+    -ms-animation-delay: 4s;
+    -webkit-animation-delay: 4s;
+    -moz-animation-delay: 4s;
+}
+
+#n6 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 5s;
+    -o-animation-delay: 5s;
+    -ms-animation-delay: 5s;
+    -webkit-animation-delay: 5s;
+    -moz-animation-delay: 5s;
+}
+
+#n5 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 6s;
+    -o-animation-delay: 6s;
+    -ms-animation-delay: 6s;
+    -webkit-animation-delay: 6s;
+    -moz-animation-delay: 6s;
+}
+
+#n4 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 7s;
+    -o-animation-delay: 7s;
+    -ms-animation-delay: 7s;
+    -webkit-animation-delay: 7s;
+    -moz-animation-delay: 7s;
+}
+
+#n3 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 8s;
+    -o-animation-delay: 8s;
+    -ms-animation-delay: 8s;
+    -webkit-animation-delay: 8s;
+    -moz-animation-delay: 8s;
+}
+
+#n2 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 9s;
+    -o-animation-delay: 9s;
+    -ms-animation-delay: 9s;
+    -webkit-animation-delay: 9s;
+    -moz-animation-delay: 9s;
+}
+
+#n1 {
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter 1s linear 1;
+    -o-animation: csscounter 1s linear 1;
+    -ms-animation: csscounter 1s linear 1;
+    -webkit-animation: csscounter 1s linear 1;
+    -moz-animation: csscounter 1s linear 1;
+    animation-delay: 10s;
+    -o-animation-delay: 10s;
+    -ms-animation-delay: 10s;
+    -webkit-animation-delay: 10s;
+    -moz-animation-delay: 10s;
+}
+
+#n0 {
+    background-color: aqua;
+    transform: scale(0);
+    -o-transform: scale(0);
+    -ms-transform: scale(0);
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    animation: csscounter1 1s linear 1;
+    -o-animation: csscounter1 1s linear 1;
+    -ms-animation: csscounter1 1s linear 1;
+    -webkit-animation: csscounter1 1s linear 1;
+    -moz-animation: csscounter1 1s linear 1;
+    animation-delay: 11s;
+    -o-animation-delay: 11s;
+    -ms-animation-delay: 11s;
+    -webkit-animation-delay: 11s;
+    -moz-animation-delay: 11s;
+    -webkit-animation-fill-mode: forwards;
+    /* Safari 4.0 - 8.0 */
+    animation-fill-mode: forwards;
+}
+
+@keyframes csscounter {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+
+@-o-keyframes csscounter {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+
+@-ms-keyframes csscounter {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+
+@-webkit-keyframes csscounter {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+
+@-moz-keyframes csscounter {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(0);
+    }
+}
+
+@keyframes csscounter1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@-o-keyframes csscounter1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@-ms-keyframes csscounter1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@-webkit-keyframes csscounter1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@-moz-keyframes csscounter1 {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
